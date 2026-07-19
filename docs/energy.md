@@ -1,102 +1,127 @@
-# Energy: Starting State and Nuclear Acceleration Path
+# Energy: Starting State and Nuclear Acceleration Pathway
 
-**Priority #1 for abundance.** Energy is the master resource. Cheap, reliable, high-density, scalable energy collapses many other scarcities (desalination, industry, data centres, heating/cooling, synthetic fuels, materials processing). Australia’s current system is in transition, still coal-dependent for firm power in major states, with rapid but intermittent renewable growth and expensive storage/transmission buildout. Nuclear is legislatively prohibited. This document maps the baseline and the fastest realistic path to nuclear-enabled abundance under aggressive deregulation.
+Energy is the master resource. Cheap, reliable, abundant energy collapses many other scarcities (housing construction costs, desalination, industry, AI compute, materials processing) and is the highest-leverage near-term priority for the AwesomeAustralia redesign.
 
-## 1. Current Power Generation Capability (2025–mid-2026)
+This document captures the mid-2026 starting state and the implications of removing nuclear prohibitions for fastest possible deployment.
 
-### Generation (energy, TWh)
-- Total electricity generation calendar year 2025: approximately **286.8 TWh** (up ~1.6% on prior year).
-- Fuel mix (approx., Australian Energy Statistics):
-  - Coal: **42.7%** (black coal dominant in NSW/QLD, brown in VIC).
-  - Natural gas: **16.2%**.
-  - Oil/distillate: **1.7%**.
-  - Renewables: **39.5%** (solar ~19.6% including rooftop ~12%, wind ~14%, hydro ~4.7%).
-- On-grid (major grids) renewables share reached ~42% in 2025.
-- State variation is extreme: Tasmania nearly 100% renewable (hydro); SA high wind/solar; NSW/VIC/QLD still >50% coal for generation in 2025.
+## 1. Current Power Generation Capability (mid-2026)
 
-### Installed Capacity (GW, approximate mid-2026 Open Electricity / AEMO-derived)
-Total nameplate capacity across Australia (including rooftop) ~**115 GW**:
-- Rooftop solar: ~27 GW
-- Utility-scale solar: ~12 GW
-- Wind: ~15–16 GW
-- Hydro: ~8–9 GW
-- Battery storage: ~8–11 GW (rapidly growing; ~2 GW / 5.5 GWh added in Q2 2026 alone)
-- Coal (black): ~18 GW
-- Coal (brown): ~5 GW
-- Gas (various OCGT/CCGT/steam): ~15–16 GW
-- Other (bio, distillate, etc.): small
+### National Electricity Market (NEM) Overview
+The NEM covers the eastern and southern states (QLD, NSW, VIC, SA, TAS) and accounts for the large majority of Australian electricity. Western Australia and Northern Territory operate separate systems.
 
-**Key characteristics**: High nameplate renewable capacity but low capacity factors and correlation (dunkelflaute risk). Coal still provides the majority of firm, dispatchable energy in the eastern states. Reliability depends on aging coal, gas peakers, hydro, and growing short-duration batteries. Wholesale prices volatile; system costs rising with transmission and firming.
+- Annual energy traded/supplied in NEM: ~200 TWh (FY25).
+- Peak historical demand: ~35.8 GW (2009).
+- Recent minimum operational demand: ~9.7 GW (driven by high rooftop solar).
+- Renewables (including rooftop) have reached instantaneous shares >70–78% on high-solar days; annual renewable contribution approaching or exceeding 40–45% in recent periods.
+
+### Approximate Installed Capacity (2025–mid-2026, combining AEMO and OpenElectricity data)
+Totals vary by source depending on whether rooftop solar and all batteries are fully included; order-of-magnitude picture:
+
+| Technology          | Approx. Capacity (GW) | Notes |
+|---------------------|-----------------------|-------|
+| Coal (black + brown)| 21–23                | Declining; multiple stations retired or scheduled |
+| Gas                 | 12–16                | Flexible peaking and intermediate |
+| Hydro               | 8–9                  | Incl. existing Snowy |
+| Wind                | 14–16                | Growing |
+| Grid-scale solar    | 12                   | Growing |
+| Rooftop solar       | 25–27                | Very large distributed fleet |
+| Battery storage     | 6–11                 | Rapid buildout; average duration rising toward 2+ hours |
+| Other (biomass etc.)| <1                   | |
+
+**Total system capacity** (incl. rooftop): approaching or exceeding 100–115 GW in some tallies. Nameplate generation capacity reported by AEMO around 74–75 GW excluding some distributed resources in earlier 2025 snapshots, with strong growth thereafter.
+
+### Generation Mix Trends
+- Coal remains the largest single source of actual energy in many periods (often 40–55% of generation in winter/low-renewable periods) but is being displaced.
+- Renewables (wind + solar + hydro + battery discharge) frequently 35–45%+ of annual/quarterly supply and rising.
+- Gas share has fallen in high-renewable periods.
+- Emissions intensity declining but still material due to residual coal.
+
+Coal plant closures continue; remaining fleet is aging and less flexible. The system is in rapid transition toward higher variable renewable + storage penetration, with significant transmission and firming challenges.
 
 ## 2. Ongoing Major Projects and Costs
 
-### Storage & Hydro
-- **Snowy 2.0** (pumped hydro, 2.2 GW / ~350 GWh): Originally announced ~$2 billion / 2021 completion. Reset to $12 billion; expenditure already >$11 billion by early 2026. Further overruns expected (independent estimates $20 billion+ construction; critics including transmission/interest up to $40 billion range). Targeted late 2028 operation, still at risk of delay. Largest single committed renewable-linked project; critical for multi-day storage but classic megaproject cost/schedule failure mode.
+### Pumped Hydro
+- **Snowy 2.0**: 2.2 GW generating capacity, ~350 GWh storage. Originally announced ~$2 billion with early-2020s completion. Reset to ~$12 billion; further cost increases expected (ANAO and media reports of potential $20B+ range including contingencies). Completion targeted late 2020s (2028–2029 range) but subject to ongoing delays and geological/tunnelling challenges. Critical long-duration storage asset if delivered.
 
-### Transmission (“Rewiring the Nation”)
-- Multi-billion program via CEFC and others.
-- Marinus Link (Tas–Vic interconnector Stage 1): CEFC $3.8 billion low-cost finance committed.
-- North West Transmission Developments (Tas): $1.2 billion CEFC.
-- HumeLink (NSW, Snowy connection): ~$2.9–several billion range.
-- Many other REZs (Renewable Energy Zones) transmission projects in planning/construction. Total system transmission spend projected in tens of billions to 2030s under ISP pathways.
+### Battery Energy Storage Systems (BESS)
+Extremely rapid buildout:
+- Multiple GW-scale projects commissioned or under construction (e.g., Liddell Battery 500 MW / ~1 GWh class, ~$750 million construction cost example).
+- Q2 2026 alone added nearly 2 GW / 5.5 GWh.
+- Fleet growing to multi-GW scale with improving duration (2–4 hour systems becoming common).
+- Capacity Investment Scheme and state schemes driving further pipelines of several GW.
 
-### Batteries
-- Rapid commercial buildout. NEM battery fleet reached multi-GW / multi-GWh scale by mid-2026 with average duration still short (~2–2.3 hours). Multiple 250–850 MW projects commissioning. Costs falling but duration and round-trip efficiency limit multi-day firming economics vs pumped hydro or nuclear.
+### Transmission
+- Major interconnectors and Renewable Energy Zone (REZ) links under construction or advanced planning (EnergyConnect, HumeLink ~$2.9B class projects, VNI West, etc.).
+- Billions in cumulative investment required for the renewable transition pathway under AEMO Integrated System Plans.
 
-### Generation
-- Large pipeline of wind/solar (tens of GW proposed/committed via AEMO connections process). Coal retirements continuing on announced schedules. Limited new firm thermal (gas mostly peaking).
+### Renewables Pipeline
+- Tens of GW of wind, solar, and hybrid projects in the connections queue (AEMO has reported 60+ GW progressing).
+- Heavy concentration in REZs.
 
-**Overall**: Transition is capital-intensive, front-loaded with transmission and firming costs, and still dependent on coal for system security in the near term. Intermittency requires overbuild + storage + transmission, driving total system cost higher than simple LCOE comparisons of individual technologies.
+### Other
+- Gas peakers and potential new flexible gas still in discussion for reliability.
+- Emerging long-duration storage trials (e.g., compressed CO2 concepts).
 
-## 3. Nuclear Regulatory Barriers — What Gets Deleted
+**Overall**: The current trajectory is heavily renewable + short-duration storage + transmission, with Snowy 2.0 as the main large long-duration project (facing classic mega-project cost/time overruns). Coal exit is managed but creates firming pressure.
 
-### Federal Prohibitions
-- **Australian Radiation Protection and Nuclear Safety Act 1998 (ARPANS Act)**, section 10(2): Explicitly prohibits the CEO of ARPANSA from licensing a nuclear power plant, nuclear fuel fabrication plant, enrichment plant, or reprocessing facility.
-- **Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act)**:
-  - s.140A: Minister must not approve actions consisting of or involving construction/operation of nuclear power plants, fuel fabrication, enrichment, or reprocessing.
-  - Related provisions (s.37J declarations, s.146M, etc.) reinforce the ban.
+## 3. Nuclear Prohibition — What Gets Deleted
 
-Repealing these specific prohibition sections (as proposed in multiple private members’ bills, e.g., 2022/2026 variants) removes the *blanket ban*. It does **not** remove:
-- Ordinary environmental impact assessment under the EPBC Act (or successor).
-- Radiation protection, safety, security, and safeguards regulation (ARPANSA or expanded/successor regulator).
-- Nuclear Non-Proliferation Treaty obligations, IAEA safeguards, export controls.
-- State planning, environment, and radiation laws.
-- Liability, insurance, and waste management frameworks (which would need positive development).
+Australia currently has an explicit legislative ban on nuclear power generation.
 
-### State Prohibitions
-Multiple states have explicit bans (e.g., NSW Uranium Mining and Nuclear Facilities (Prohibitions) Act 1986; Victoria Nuclear Activities (Prohibitions) Act 1983; Queensland and others have restrictions). These must also be repealed or overridden for a national program. Federal constitutional power over nuclear activities exists but political cooperation or override mechanisms would be required for speed.
+### Federal Level
+- **Australian Radiation Protection and Nuclear Safety Act 1998 (ARPANS Act)**, section 10: Prohibits the CEO from licensing construction or operation of nuclear power plants, enrichment plants, fuel fabrication plants, or reprocessing facilities.
+- **Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act)**: Specific provisions (including former s140A, s37J and related) that prevent the Environment Minister from approving nuclear power plants and certain other nuclear installations.
 
-**Process to “delete”**: Simple legislative repeal of the prohibition clauses via Parliament (and state parliaments). Can be done in months if political will exists. Full enabling regulatory regime (licensing criteria, FOAK processes, waste policy, liability) takes longer to design and staff but can be fast-tracked with imported standards (e.g., IAEA, Canadian, Korean, or US NRC frameworks adapted).
+### State Level
+Additional prohibitions exist in several states (e.g., NSW Uranium Mining and Nuclear Facilities (Prohibitions) Act 1986 and equivalents in other jurisdictions) covering construction/operation of nuclear facilities. Some state bans have Commonwealth carve-outs, but practical barriers remain high.
 
-## 4. Fastest Path to Nuclear Power — Timelines and Costs
+**“Deleting nuclear regulation” in the accelerationist sense means**:
+1. Repealing the specific prohibition clauses in the ARPANS Act and EPBC Act (as proposed in various private members’ bills).
+2. Establishing (or adapting) a full modern nuclear regulatory framework under ARPANSA or a dedicated body for safety, security, safeguards, waste, liability, and licensing — aligned with IAEA standards.
+3. Resolving state-level prohibitions or asserting Commonwealth power where constitutionally available.
+4. Developing waste management policy, insurance/liability regime, and workforce/skills pathways.
 
-### Realistic Accelerated Timeline (Aggressive Deregulation + Technology Import)
-1. **Legislation** (0–12 months): Repeal federal prohibitions + coordinated state action or federal override. Establish or expand regulator with clear FOAK pathway and timelines.
-2. **Site selection & early works** (parallel, 1–3 years): Prefer existing industrial/coal sites with transmission, cooling water, workforce, and community familiarity (e.g., Hunter, Latrobe, Central Queensland). Pre-approvals, land, grid studies.
-3. **Technology selection & contracts** (1–3 years): Prefer proven large Gen III+ designs with continuous construction experience (South Korean APR1400/APR1000 family, Chinese Hualong One with caveats, or Western designs if FOAK risk accepted) or first commercial SMRs if they mature. Turnkey EPC with experienced foreign partners + Australian content requirements.
-4. **Licensing & detailed design** (2–5 years overlapping): Streamlined but rigorous. Use vendor country reference plant data to reduce novelty.
-5. **Construction** (5–8 years for FOAK large reactor under best international practice; China routinely 5–6 years after first concrete; UAE Barakah ~8–9 years for first units with Korean technology; Western FOAK often 10–15+ years).
-6. **First power**: Optimistic aggressive path **~10–14 years** from political decision for first large unit; subsequent units in a series program 6–9 years. SMR claims of faster deployment remain largely unproven at commercial scale in the West.
+Repeal of the bans is the necessary first legislative step. It does **not** by itself create a ready-to-build environment; a competent, independent, well-resourced regulator and clear planning pathway are still required. Australia already has a research reactor (OPAL at Lucas Heights) and uranium mining expertise, which provides a modest institutional base.
 
-**Bottlenecks even after ban removal**: Domestic nuclear-skilled workforce (currently limited to ANSTO/Lucas Heights research/medical), supply chain, public acceptance/local opposition, transmission upgrades, long-term waste policy, financing (sovereign or regulated asset base needed for FOAK), and FOAK cost premiums.
+## 4. Fastest Realistic Path to Nuclear Power
 
-### Cost Indications (GenCost and International Benchmarks)
-- CSIRO GenCost (recent reports): Large-scale nuclear capital costs (Australian conditions, continuous program after FOAK) in the high thousands of AUD per kW (e.g., ~AUD 9,000+/kW range cited in earlier inclusions, with first-of-a-kind significantly higher). LCOE estimates typically well above firmed renewables in their modelling ($140–260+/MWh range depending on assumptions and year). SMR higher still.
-- International: China ~USD 2,500–4,000/kW and 5–6 year builds with series production. Korea historically competitive. Western FOAK (Vogtle, Hinkley, Flamanville) $10,000–15,000+/kW and long delays. UAE Barakah (Korean tech) more controlled but still multi-year/multi-billion.
-- Australia-specific: Expect FOAK premium of 50–100%+, higher labour/productivity costs, and first-of-kind regulatory friction. Subsequent units benefit from learning. Total program cost for meaningful capacity (10–20 GW) would be tens to low hundreds of billions AUD over decades, but provides firm, high-capacity-factor, long-lived (60–80+ year) power with low marginal cost and high energy density.
+### Timelines (First-of-a-Kind in Australia)
+Even after legislative repeal:
+- Regulatory framework development + site selection + technology selection + preliminary licensing: 3–7 years (optimistic with emergency priority and international assistance).
+- Construction of a large proven Gen-III+ reactor: international best practice 5–7 years (China, Korea, UAE Barakah ~8 years for first units); Western FOAK projects often 10–15+ years with overruns (Vogtle, Flamanville, Olkiluoto).
+- Realistic Australian first-power target under aggressive acceleration: late 2030s at the earliest for a large reactor; more probably early–mid 2040s. SMRs could theoretically be faster if a design is licensed and factory production scales, but most Western SMR projects are also targeting early 2030s at best and face first-of-a-kind risks.
 
-**Comparison note**: Simple LCOE comparisons understate system value of firm nuclear (or firm gas/hydro) versus intermittent + storage + transmission. Nuclear’s value rises with high renewable penetration and electrification of industry/transport/heating.
+**Best international benchmarks**:
+- UAE Barakah (Korean APR-1400): Construction start to commercial operation ~8–9 years per unit for a new nuclear nation.
+- China recent large reactors: frequently 5–7 years.
+- Korea domestic: strong track record of relatively controlled schedules.
 
-## 5. Recommended Acceleration Actions for AwesomeAustralia
+Australia has no recent nuclear construction experience, limited heavy industrial nuclear supply chain, and would face FOAK premiums in labour, regulation, and public acceptance processes.
 
-1. Immediate legislative package to repeal federal prohibitions and create a fast-track licensing pathway with statutory timelines and imported standards.
-2. Parallel state engagement or constitutional strategies for uniform enabling framework.
-3. Select 3–5 candidate sites (coal regions preferred) and begin environmental baseline, grid, and community work now.
-4. Engage experienced international vendors/EPC for technology transfer and FOAK delivery.
-5. Develop domestic workforce pipeline (universities, trades, ANSTO expansion) and nuclear liability/waste policy.
-6. Integrate nuclear into system planning as firm capacity alongside (not instead of) cost-effective renewables and storage where they make sense.
-7. Fund via sovereign wealth / resource rents or regulated returns to minimise cost of capital for FOAK.
+### Costs
+- International overnight capital costs for large reactors in recent projects vary widely: ~US$3,000–8,000+/kW depending on country and overruns (China/Korea lower end of recent experience; Western projects higher).
+- CSIRO GenCost assessments consistently place large nuclear and especially SMRs at the higher end of the Australian cost curve, with significant first-of-a-kind premiums (potentially 100%+ over mature international benchmarks).
+- Australian FOAK large reactor: plausible all-in costs in the tens of billions of AUD per GW-scale unit once financing, transmission connection, contingency, and local factors are included.
+- SMRs: currently higher per-kW estimates in most independent assessments; promise of factory learning is not yet proven at scale in the West.
 
-Energy abundance is non-negotiable for the high-agency, high-productivity, post-scarcity trajectory. Nuclear is the highest-density, highest-capacity-factor, longest-lived firm generation technology available. Removing the ban is the necessary first step; execution discipline and series construction are what determine whether it arrives in the 2030s or the 2040s+.
+### Acceleration Levers (if political will exists)
+- Immediate legislative repeal of prohibitions.
+- Pre-designate existing coal plant sites (grid connection, cooling water, workforce communities already present) for priority assessment.
+- Technology selection limited to proven large designs with strong international delivery records (or the most mature SMR if schedule advantages materialise).
+- Government-backed financing or contracts-for-difference to reduce cost of capital.
+- Aggressive international partnerships (Korea, Canada, US, France, or others) for technology transfer, workforce training, and modular construction methods.
+- Parallel development of waste policy (interim storage + long-term pathway) and liability regime.
+- Streamlined but rigorous safety regulation — not deregulation of safety.
 
-*Data current as of mid-2026 research. Update with latest AEMO Generation Information, GenCost, and project reports.*
+### Realistic Assessment for AwesomeAustralia Goals
+Nuclear can provide firm, high-capacity-factor, low-emissions power that complements variable renewables and reduces the total system cost of deep decarbonisation in some scenarios. However, it is **not** a near-term (this decade) solution for Australia. The highest-leverage actions for the next 5–10 years remain:
+1. Maximising energy abundance via whatever combination of nuclear-ready planning, accelerated firming (gas, storage, hydro), and genuine least-cost reliable supply.
+2. Removing barriers to rapid deployment of all low-cost firm and flexible resources.
+3. Treating energy cost and reliability as first-order constraints on housing, industry, and AI/automation acceleration.
+
+Repealing the nuclear bans is a high-value option-creating move. It should be paired with honest timelines and cost expectations rather than treated as an immediate silver bullet.
+
+## Sources & Further Work
+Data drawn from AEMO publications (Generation Information, ISP, fact sheets), CSIRO GenCost series, OpenElectricity, ANAO Snowy 2.0 audit, parliamentary library summaries of nuclear legislation, World Nuclear Association and project trackers for international benchmarks (as of mid-2026).
+
+Next iterations: detailed site shortlist, technology shortlist with FOAK risk assessment, quantitative system modelling of nuclear + renewables pathways, and workforce/skills requirements.
