@@ -28,7 +28,7 @@ Totals vary by source depending on whether rooftop solar and all batteries are f
 | Battery storage     | 6–11                 | Rapid buildout; average duration rising toward 2+ hours |
 | Other (biomass etc.)| <1                   | |
 
-**Total system capacity** (incl. rooftop): approaching or exceeding 100–115 GW in some tallies. Nameplate generation capacity reported by AEMO around 74–75 GW excluding some distributed resources in earlier 2025 snapshots, with strong growth thereafter.
+**Total system capacity** (incl. rooftop): approaching or exceeding 100–115 GW in some tallies.
 
 ### Generation Mix Trends
 - Coal remains the largest single source of actual energy in many periods (often 40–55% of generation in winter/low-renewable periods) but is being displaced.
@@ -41,87 +41,83 @@ Coal plant closures continue; remaining fleet is aging and less flexible. The sy
 ## 2. Ongoing Major Projects and Costs
 
 ### Pumped Hydro
-- **Snowy 2.0**: 2.2 GW generating capacity, ~350 GWh storage. Originally announced ~$2 billion with early-2020s completion. Reset to ~$12 billion; further cost increases expected (ANAO and media reports of potential $20B+ range including contingencies). Completion targeted late 2020s (2028–2029 range) but subject to ongoing delays and geological/tunnelling challenges. Critical long-duration storage asset if delivered.
+- **Snowy 2.0**: 2.2 GW generating capacity, ~350 GWh storage. Originally announced ~$2 billion with early-2020s completion. Reset to ~$12 billion; further cost increases expected. Completion targeted late 2020s but subject to ongoing delays. Critical long-duration storage asset if delivered.
 
 ### Battery Energy Storage Systems (BESS)
-Extremely rapid buildout:
-- Multiple GW-scale projects commissioned or under construction (e.g., Liddell Battery 500 MW / ~1 GWh class, ~$750 million construction cost example).
-- Q2 2026 alone added nearly 2 GW / 5.5 GWh.
-- Fleet growing to multi-GW scale with improving duration (2–4 hour systems becoming common).
-- Capacity Investment Scheme and state schemes driving further pipelines of several GW.
+Extremely rapid buildout: Multiple GW-scale projects. Q2 2026 alone added nearly 2 GW / 5.5 GWh. Fleet growing to multi-GW scale with improving duration.
 
-### Transmission
-- Major interconnectors and Renewable Energy Zone (REZ) links under construction or advanced planning (EnergyConnect, HumeLink ~$2.9B class projects, VNI West, etc.).
-- Billions in cumulative investment required for the renewable transition pathway under AEMO Integrated System Plans.
+### Transmission and Renewables Pipeline
+Major interconnectors and REZ links under construction. Tens of GW of wind/solar in connections queue.
 
-### Renewables Pipeline
-- Tens of GW of wind, solar, and hybrid projects in the connections queue (AEMO has reported 60+ GW progressing).
-- Heavy concentration in REZs.
-
-### Other
-- Gas peakers and potential new flexible gas still in discussion for reliability.
-- Emerging long-duration storage trials (e.g., compressed CO2 concepts).
-
-**Overall**: The current trajectory is heavily renewable + short-duration storage + transmission, with Snowy 2.0 as the main large long-duration project (facing classic mega-project cost/time overruns). Coal exit is managed but creates firming pressure.
+**Overall**: Current trajectory is heavily renewable + short-duration storage + transmission. Coal exit creates firming pressure.
 
 ## 3. Nuclear Prohibition — What Gets Deleted
 
-Australia currently has an explicit legislative ban on nuclear power generation.
-
 ### Federal Level
-- **Australian Radiation Protection and Nuclear Safety Act 1998 (ARPANS Act)**, section 10: Prohibits the CEO from licensing construction or operation of nuclear power plants, enrichment plants, fuel fabrication plants, or reprocessing facilities.
-- **Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act)**: Specific provisions (including former s140A, s37J and related) that prevent the Environment Minister from approving nuclear power plants and certain other nuclear installations.
+- **ARPANS Act 1998** section 10: Prohibits licensing of nuclear power plants, enrichment, fuel fabrication, or reprocessing.
+- **EPBC Act**: Specific provisions that prevent Ministerial approval of those nuclear installations.
 
 ### State Level
-Additional prohibitions exist in several states (e.g., NSW Uranium Mining and Nuclear Facilities (Prohibitions) Act 1986 and equivalents in other jurisdictions) covering construction/operation of nuclear facilities. Some state bans have Commonwealth carve-outs, but practical barriers remain high.
+Additional prohibitions in NSW, Victoria, Queensland and others.
 
-**“Deleting nuclear regulation” in the accelerationist sense means**:
-1. Repealing the specific prohibition clauses in the ARPANS Act and EPBC Act (as proposed in various private members’ bills).
-2. Establishing (or adapting) a full modern nuclear regulatory framework under ARPANSA or a dedicated body for safety, security, safeguards, waste, liability, and licensing — aligned with IAEA standards.
-3. Resolving state-level prohibitions or asserting Commonwealth power where constitutionally available.
-4. Developing waste management policy, insurance/liability regime, and workforce/skills pathways.
+**Deleting the bans** means repealing the specific prohibition clauses. It does not remove the need for a competent safety regulator, environmental assessment, safeguards, waste policy, or liability regime. Australia already has OPAL research reactor experience and uranium mining as a base.
 
-Repeal of the bans is the necessary first legislative step. It does **not** by itself create a ready-to-build environment; a competent, independent, well-resourced regulator and clear planning pathway are still required. Australia already has a research reactor (OPAL at Lucas Heights) and uranium mining expertise, which provides a modest institutional base.
+## 4. Fastest Realistic Path to Nuclear Power (Standard Aggressive)
 
-## 4. Fastest Realistic Path to Nuclear Power
-
-### Timelines (First-of-a-Kind in Australia)
 Even after legislative repeal:
-- Regulatory framework development + site selection + technology selection + preliminary licensing: 3–7 years (optimistic with emergency priority and international assistance).
-- Construction of a large proven Gen-III+ reactor: international best practice 5–7 years (China, Korea, UAE Barakah ~8 years for first units); Western FOAK projects often 10–15+ years with overruns (Vogtle, Flamanville, Olkiluoto).
-- Realistic Australian first-power target under aggressive acceleration: late 2030s at the earliest for a large reactor; more probably early–mid 2040s. SMRs could theoretically be faster if a design is licensed and factory production scales, but most Western SMR projects are also targeting early 2030s at best and face first-of-a-kind risks.
+- Regulatory framework + site + technology selection + licensing: 3–7 years.
+- Construction of large proven Gen-III+: international best 5–7 years (China/Korea); FOAK Western often longer.
+- Realistic first-power: late 2030s optimistic, more probably early–mid 2040s for large reactors.
 
-**Best international benchmarks**:
-- UAE Barakah (Korean APR-1400): Construction start to commercial operation ~8–9 years per unit for a new nuclear nation.
-- China recent large reactors: frequently 5–7 years.
-- Korea domestic: strong track record of relatively controlled schedules.
+Costs: FOAK premiums high (CSIRO notes up to 100%+). Tens of billions AUD per GW-class unit plausible for early Australian units.
 
-Australia has no recent nuclear construction experience, limited heavy industrial nuclear supply chain, and would face FOAK premiums in labour, regulation, and public acceptance processes.
+## 5. Super Turbo Pathway: US Deal + "First Make It Exist"
 
-### Costs
-- International overnight capital costs for large reactors in recent projects vary widely: ~US$3,000–8,000+/kW depending on country and overruns (China/Korea lower end of recent experience; Western projects higher).
-- CSIRO GenCost assessments consistently place large nuclear and especially SMRs at the higher end of the Australian cost curve, with significant first-of-a-kind premiums (potentially 100%+ over mature international benchmarks).
-- Australian FOAK large reactor: plausible all-in costs in the tens of billions of AUD per GW-scale unit once financing, transmission connection, contingency, and local factors are included.
-- SMRs: currently higher per-kW estimates in most independent assessments; promise of factory learning is not yet proven at scale in the West.
+**Goal**: Compress the path by maximising parallelisation, importing US frameworks and expertise, accepting small initial scale, and prioritising existence of a live reactor (even micro/demo scale) over optimisation. Philosophy: first make nuclear real in Australia, then scale and improve.
 
-### Acceleration Levers (if political will exists)
-- Immediate legislative repeal of prohibitions.
-- Pre-designate existing coal plant sites (grid connection, cooling water, workforce communities already present) for priority assessment.
-- Technology selection limited to proven large designs with strong international delivery records (or the most mature SMR if schedule advantages materialise).
-- Government-backed financing or contracts-for-difference to reduce cost of capital.
-- Aggressive international partnerships (Korea, Canada, US, France, or others) for technology transfer, workforce training, and modular construction methods.
-- Parallel development of waste policy (interim storage + long-term pathway) and liability regime.
-- Streamlined but rigorous safety regulation — not deregulation of safety.
+### Key Elements of the Deal
+1. **Enhanced bilateral nuclear cooperation** with the United States (building on existing 123 Agreement elements, AUKUS nuclear-powered submarine pathways, and uranium trade).
+2. **Import / mutual recognition of regulatory standards**: Adopt large parts of the US NRC framework (or DOE authorisation pathways for advanced reactors) wholesale. Second NRC/DOE experts into a new or expanded Australian regulator. Use pre-licensed or design-certified US designs to slash novelty assessment time.
+3. **Parallel operator and workforce training**: Immediate cohorts sent to US Navy nuclear programs, civilian utilities, and vendor training centres. Simultaneously stand up an Australian nuclear academy co-located with the first site.
+4. **Technology choice focused on speed and smallness**: Prioritise the most mature microreactors or small SMRs with US DOE pilot progress or NRC design approvals (e.g., NuScale has Standard Design Approval; various microreactor designs have achieved zero-power criticality under DOE authorisation in 2026). Shipping-container or factory-built units (1–50 MWe class) minimise on-site civil works.
+5. **Site on controlled land**: Defence establishments, remote industrial sites, or data-centre campuses under Commonwealth control to minimise state planning friction and community process delays.
+6. **Front-load Stage 0 aggressively**: Ban repeal in weeks/months; simultaneous site characterisation, fuel supply contracts (initially imported LEU/HALEU), liability legislation, and waste interim storage policy. Treat the first unit as a national capability demonstrator rather than a pure commercial plant.
 
-### Realistic Assessment for AwesomeAustralia Goals
-Nuclear can provide firm, high-capacity-factor, low-emissions power that complements variable renewables and reduces the total system cost of deep decarbonisation in some scenarios. However, it is **not** a near-term (this decade) solution for Australia. The highest-leverage actions for the next 5–10 years remain:
-1. Maximising energy abundance via whatever combination of nuclear-ready planning, accelerated firming (gas, storage, hydro), and genuine least-cost reliable supply.
-2. Removing barriers to rapid deployment of all low-cost firm and flexible resources.
-3. Treating energy cost and reliability as first-order constraints on housing, industry, and AI/automation acceleration.
+### Feasibility of a Live Reactor in 4 Years
+**Honest assessment**: Extremely ambitious. 4 years from political decision to a grid-connected or even low-power critical commercial reactor is outside all historical and current commercial benchmarks for a newcomer country under civilian safety standards.
 
-Repealing the nuclear bans is a high-value option-creating move. It should be paired with honest timelines and cost expectations rather than treated as an immediate silver bullet.
+- Fastest historical large-reactor construction (first concrete to grid) is ~4–5 years in China for *subsequent* units of proven designs in an experienced industrial ecosystem. FOAK and democratic processes are longer.
+- UAE (newcomer with Korean technology and strong will) took ~12 years from decision to first power.
+- US microreactor / advanced reactor progress in 2026: Multiple zero-power criticality demonstrations under DOE Pilot Program authority. Commercial power-producing units still target late 2020s–early 2030s. Factory-built claims exist but remain unproven at scale for full licensing and operation.
+
+**What *is* more plausible under Super Turbo**:
+- 2–4 years: Zero-power or very low-power criticality demonstration / research-scale unit on controlled land, using imported components and US-authorised designs under a special legislative pathway (analogous to US DOE Pilot Program). This reboots skills, proves process, and creates political facts on the ground.
+- 5–8 years: First small commercial power-producing unit (microreactor or SMR module) if a mature design is selected, factory production is leveraged, and regulatory mutual recognition works.
+- Larger units remain 10–15+ years for FOAK.
+
+A 4-year "live reactor" is only feasible if "live" is defined as criticality/demo rather than meaningful grid power, and if extraordinary executive/legislative priority plus US partnership overrides normal processes. It is a high-risk, high-signal capability play rather than an energy-system solution.
+
+### Why Front-Load Stage 0 Heavily
+Industry reboot requires physical existence. A small, early reactor (even if not economic) creates:
+- Trained Australian operators and regulators.
+- Domestic supply-chain seeds.
+- Political and social proof that nuclear is real again.
+- A platform for iterative improvement ("make it good" after it exists).
+- Option value for rapid scaling once learning accumulates.
+
+Without Stage 0 completion (legal existence + first criticality), larger ambitions remain theoretical.
+
+### Recommended Super Turbo Sequence
+1. Immediate (0–6 months): Ban repeal + bilateral US nuclear acceleration agreement + site shortlist on Commonwealth land + operator training pipeline launch.
+2. 6–24 months: Regulator bootstrap with US secondees; select micro/SMR vendor with furthest licensing progress; begin site works and component procurement.
+3. 24–48 months: Aim for first criticality / low-power operation of a small unit.
+4. Parallel: Larger SMR or large-reactor track for meaningful capacity in the 2030s.
+
+**Risks**: Safety shortcuts create backlash; FOAK cost overruns; US political or export-control friction; public acceptance; fuel supply (HALEU bottlenecks exist globally).
+
+**Upside**: Australia becomes a nuclear-capable nation again within one electoral cycle, rebooting the industry and creating the option for rapid subsequent expansion. This aligns with the project's accelerationist stance: hard problems exist, but existence precedes perfection.
 
 ## Sources & Further Work
-Data drawn from AEMO publications (Generation Information, ISP, fact sheets), CSIRO GenCost series, OpenElectricity, ANAO Snowy 2.0 audit, parliamentary library summaries of nuclear legislation, World Nuclear Association and project trackers for international benchmarks (as of mid-2026).
+Data from AEMO, CSIRO GenCost, OpenElectricity, parliamentary summaries, World Nuclear Association, DOE/NRC status reports on advanced reactors (as of mid-2026), and international construction benchmarks.
 
-Next iterations: detailed site shortlist, technology shortlist with FOAK risk assessment, quantitative system modelling of nuclear + renewables pathways, and workforce/skills requirements.
+Next: Detailed microreactor vendor shortlist, Stage 0 legislative checklist, and quantitative modelling of small-first vs large-first strategies.
